@@ -8,4 +8,5 @@ xgboost
 Flask
 plotly
 notebook
--e .
+dill
+#-e .
